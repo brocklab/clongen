@@ -1,7 +1,7 @@
 # Clongen: ClonMapper Reference Generator
 
 <p align='center'>
-<img src='./assets/help.svg' width =800>
+<img src='https://raw.githubusercontent.com/brocklab/clongen/main/assets/help.svg' width =800>
 </p>
 
 ## Installation
